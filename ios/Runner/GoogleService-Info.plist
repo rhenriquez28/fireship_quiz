@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>877018907416-mlm5rvsi5f5i6gu9llhsglt9uj07714s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.877018907416-mlm5rvsi5f5i6gu9llhsglt9uj07714s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>877018907416-35p3e5t7ihoj8vsfk76kd1sqq5s7ruls.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4Z5-0nry9282T_y-UwzCGHeDsjMbFruo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>877018907416</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rhen.fireshipquiz</string>
+	<key>PROJECT_ID</key>
+	<string>flutterfirebasefireship</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterfirebasefireship.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:877018907416:ios:11409f10086bccc697d46d</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutterfirebasefireship.firebaseio.com</string>
+</dict>
+</plist>
